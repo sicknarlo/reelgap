@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  year: 1
+  poster: MyString
+  metascore: 1
+  imdb_rating: 1.5
+  imdbID: MyString
+
+two:
+  title: MyString
+  year: 1
+  poster: MyString
+  metascore: 1
+  imdb_rating: 1.5
+  imdbID: MyString
